@@ -1,0 +1,24 @@
+Image normalization
+How many layers
+3X3 Convolution
+Receptive Field
+Batch Normalization
+MaxPooling
+Position of Max pooling
+Concept of Transition Layers
+Position of Transition Layer
+Dropouts
+1X1 Convolution
+SoftMax
+Kernels and how do we decide the number of kernels?
+Adam vs SGD
+Learning Rate
+LR schedule and concept behind it
+How do we know our network is not going well, comparatively, very early
+When do we introduce DropOut, or when do we know we have some overfitting
+Batch size and effects of batch size
+When to add validation checks
+Number of Epochs and when to increase them
+The distance of MaxPooling from Prediction
+The distance of Batch Normalization from Prediction
+When do we stop convolutions and go ahead with a larger kernel or some other alternative
